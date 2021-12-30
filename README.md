@@ -14,11 +14,12 @@ year = {2021}
 ## Model-Free Methods
 Proceeding|Method|Title|Resource
 --|:--:|:--:|:--:
-NeurIPS 2019| DER| When to use parametric models in reinforcement learning? |  [[pdf]](https://arxiv.org/pdf/1906.05243.pdf)
+NeurIPS 2019| DER| When to use parametric models in reinforcement learning? |  [[pdf]](https://arxiv.org/pdf/1906.05243.pdf) [[code]](https://github.com/google-research/pisac)
 AAAI 2021| SAC-AE| Improving Sample Efficiency in Model-Free Reinforcement Learning from Images |  [[pdf]](https://arxiv.org/pdf/1910.01741.pdf) [[project]](https://sites.google.com/view/sac-ae/home)
 ICML 2020|CURL|CURL: Contrastive Unsupervised Representations for Reinforcement Learning | [[pdf]](https://arxiv.org/pdf/2004.04136.pdf) [[code]](https://github.com/MishaLaskin/curl)
+NeurIPS 2020| PI-SAC | Predictive Information Accelerates Learning in RL | [[pdf]](https://arxiv.org/pdf/2007.12401.pdf)
 NeurIPS 2020| SLAC | Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model |  [[pdf]](https://arxiv.org/pdf/1907.00953.pdf)
-NeurIPS 2020|RAD|Reinforcement Learning with Augmented Data |  [[pdf]](https://arxiv.org/pdf/2004.14990.pdf) [[code]](https://github.com/MishaLaskin/rad)
+NeurIPS 2020| RAD |Reinforcement Learning with Augmented Data |  [[pdf]](https://arxiv.org/pdf/2004.14990.pdf) [[code]](https://github.com/MishaLaskin/rad)
 ICLR 2021|DrQ|Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels | [[pdf]](https://arxiv.org/pdf/2004.13649.pdf) [[code]](https://github.com/denisyarats/drq)
 ICLR 2021|SPR|Data-Efficient Reinforcement Learning with Self-Predictive Representations |  [[pdf]](https://arxiv.org/pdf/2007.05929.pdf) [[code]](https://github.com/mila-iqia/spr)
 NeurIPS 2021|PlayVirtual|PlayVirtual: Augmenting Cycle-Consistent Virtual Trajectories for Reinforcement Learning |  [[pdf]](https://arxiv.org/pdf/2106.04152.pdf) [[code]](https://github.com/microsoft/PlayVirtual)
