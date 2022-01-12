@@ -22,7 +22,7 @@ NeurIPS 2020| SLAC | Stochastic Latent Actor-Critic: Deep Reinforcement Learning
 NeurIPS 2020| RAD |Reinforcement Learning with Augmented Data |  [[pdf]](https://arxiv.org/pdf/2004.14990.pdf) [[code]](https://github.com/MishaLaskin/rad)
 ICLR 2021|DrQ|Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels | [[pdf]](https://arxiv.org/pdf/2004.13649.pdf) [[code]](https://github.com/denisyarats/drq)
 ICLR 2021|SPR|Data-Efficient Reinforcement Learning with Self-Predictive Representations |  [[pdf]](https://arxiv.org/pdf/2007.05929.pdf) [[code]](https://github.com/mila-iqia/spr)
-NeurIPS 2021|PlayVirtual|PlayVirtual: Augmenting Cycle-Consistent Virtual Trajectories for Reinforcement Learning |  [[pdf]](https://arxiv.org/pdf/2106.04152.pdf) [[code]](https://github.com/microsoft/PlayVirtual)
+NeurIPS 2021|PlayVirtual|PlayVirtual: Augmenting Cycle-Consistent Virtual Trajectories for Reinforcement Learning |  [[pdf]](https://arxiv.org/pdf/2106.04152.pdf) [[code]](https://github.com/microsoft/Playvirtual)
 
 ## Model-Based Methods
 Proceeding|Method|Title|Resource
